@@ -1,0 +1,16 @@
+{
+  "name": "championguesser",
+  "version": "1.0.0",
+  "description": "guesses which team will win",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^1.2.2",
+    "fs": "0.0.1-security",
+    "request": "^2.87.0"
+  }
+}
